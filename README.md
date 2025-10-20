@@ -1,1 +1,1 @@
-# BCD-to-Excess-three
+# BCD-to-Excess-3 Code Conversion
